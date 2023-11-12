@@ -3,7 +3,11 @@ Adroit Koriki Theme
 
 By Rick
 
+-----
+
 A minimal theme that will cycle through all systems on one page instead of seperating consoles, handhelds, ports, etc. With a clean and simple list of games.
+
+-----
 
 ![g1](https://github.com/RickAndTired/adroit-koriki/assets/53553229/7abb78fc-530f-44de-9463-f293e82f094c)
 
@@ -11,7 +15,7 @@ A minimal theme that will cycle through all systems on one page instead of seper
 
 [Screencast from 2023-11-12 14-26-41.webm](https://github.com/RickAndTired/adroit-koriki/assets/53553229/9b9e9beb-4b4e-4757-bce2-afdb1423f15d)
 
-
+-----
 
 Replace boot_logo.bmp.gz in the BATOCERA partition
 
