@@ -7,6 +7,9 @@ By Rick
 
 A minimal theme that will cycle through all systems on one page instead of seperating consoles, handhelds, ports, etc. With a clean and simple list of games.
 
+Similar to my Adroit ES-DE theme
+https://github.com/RickAndTired/adroit-es-de
+
 -----
 
 ![g1](https://github.com/RickAndTired/adroit-koriki/assets/53553229/7abb78fc-530f-44de-9463-f293e82f094c)
