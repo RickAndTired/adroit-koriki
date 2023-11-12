@@ -1,5 +1,7 @@
 # adroit-koriki
-Adroit Koriki Theme
+Adroit [Koriki](https://github.com/rg35xx-cfw/Koriki) Theme for the RG35XX
+
+SimpleMenu 640x480 Theme
 
 By Rick
 
@@ -7,8 +9,7 @@ By Rick
 
 A minimal theme that will cycle through all systems on one page instead of seperating consoles, handhelds, ports, etc. With a clean and simple list of games.
 
-Similar to my Adroit ES-DE theme
-https://github.com/RickAndTired/adroit-es-de
+Similar to my [Adroit ES-DE theme](https://github.com/RickAndTired/adroit-es-de)
 
 -----
 
@@ -16,7 +17,7 @@ https://github.com/RickAndTired/adroit-es-de
 
 ![gameboy](https://github.com/RickAndTired/adroit-koriki/assets/53553229/e407f6ca-9f6f-431d-a112-8a0cb542830a)
 
-[Screencast from 2023-11-12 14-26-41.webm](https://github.com/RickAndTired/adroit-koriki/assets/53553229/9b9e9beb-4b4e-4757-bce2-afdb1423f15d)
+[Preview Video](https://github.com/RickAndTired/adroit-koriki/assets/53553229/9b9e9beb-4b4e-4757-bce2-afdb1423f15d)
 
 -----
 
